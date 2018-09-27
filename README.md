@@ -9,7 +9,10 @@ cd /opt/lampp
 To open up the contrl panel(or faqs):     
 open localhost in chrome
 
+-------------------------------
 
+
+.htaccess :: Super Important.
 
 
 
