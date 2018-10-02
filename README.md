@@ -29,7 +29,7 @@ Open Control panel.
 cd /opt/lampp     
 sudo ./manager-linux-x64.run       
 Open "configure"        
-Change:        
+Change (both lines together :        
 DocumentRoot from: "/opt/lampp/htdocs"       
 To place where you are storing your files (No trailing /)         
 Example: "/home/apache"          
