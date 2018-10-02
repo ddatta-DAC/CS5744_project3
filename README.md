@@ -24,15 +24,16 @@ To open up the contrl panel(or faqs):
 
 -------------------------------
 
-To change the DocumentRoot 
-Open Control panel. 
-cd /opt/lampp
-sudo ./manager-linux-x64.run  
-Open "configure"
-Change:
-DocumentRoot from: "/opt/lampp/htdocs"
-To place where you are storing your files (No trailing /)   
-Example: "/home/apache"
+To change the DocumentRoot     
+Open Control panel.      
+cd /opt/lampp     
+sudo ./manager-linux-x64.run       
+Open "configure"        
+Change:        
+DocumentRoot from: "/opt/lampp/htdocs"       
+To place where you are storing your files (No trailing /)         
+Example: "/home/apache"          
+
 
 
 
