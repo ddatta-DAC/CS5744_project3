@@ -33,6 +33,22 @@ Change (both lines together :
 DocumentRoot from: "/opt/lampp/htdocs"       
 To place where you are storing your files (No trailing /)         
 Example: "/home/apache"          
+ 
+
+--------------------------------
+
+
+To place php in a file, include the code. Rename the file as a  .php       
+So that apache can process it.
+In browser , write page.php      
+
+
+Another example :       
+Place header in a templace.
+
+Use the template, using           
+   \<?php include_once 'template.php' ?\>
+
 
 
 
