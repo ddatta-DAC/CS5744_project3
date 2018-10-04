@@ -64,7 +64,7 @@ use htaccess file to redirect like home.php no one likes.
 In configuration file we have mode_rewrite.  
 Turn it on in htaccess here. Then we write rules.:
 
-   RewriteEngine on
+   RewriteEngine on  
    RewriteRule ^home$ home.php 
 
 
