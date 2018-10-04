@@ -66,7 +66,12 @@ Turn it on in htaccess here. Then we write rules.:
 
    RewriteEngine on  
    RewriteRule ^home$ home.php 
+   RewriteRule ^$ home.php
 
+   #Take care of trailing / like home/       
+   RewriteRule^home$/?$
+
+Now we can redirect users to a controller, rather than a template. Controller can have business logic.
 
 
 
