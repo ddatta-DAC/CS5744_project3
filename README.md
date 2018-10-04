@@ -71,7 +71,10 @@ Turn it on in htaccess here. Then we write rules.:
    #Take care of trailing / like home/       
    RewriteRule^home$/?$
 
-Now we can redirect users to a controller, rather than a template. Controller can have business logic.
+Now we can redirect users to a controller, rather than a template. Controller can have business logic.   
+There can be multiple controllers, such as a controller per item.
+See the class video!!      
+
 
 
 
