@@ -75,7 +75,8 @@ Now we can redirect users to a controller, rather than a template. Controller ca
 There can be multiple controllers, such as a controller per item.
 See the class video!!      
 
+Idea is to tell controller to load which view to load. Its MVC.         
 
-
+This is going to be done http request methods.
 
 
