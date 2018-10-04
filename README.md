@@ -77,6 +77,6 @@ See the class video!!
 
 Idea is to tell controller to load which view to load. Its MVC.         
 
-This is going to be done http request methods.
-
+This is going to be done http request methods.        
+HTTP GET and POST
 
